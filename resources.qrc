@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>icons/addSong.png</file>
+        <file>icons/icons8-mute-48.png</file>
+        <file>icons/icons8-sound-50.png</file>
+        <file>icons/next.png</file>
+        <file>icons/pause.png</file>
+        <file>icons/play.png</file>
+        <file>icons/skip-to-start.png</file>
+        <file>icons/stop.png</file>
+        <file>icons/volume.png</file>
+        <file>icons/icons8-last-track-button-48.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>icons/addSong.png</file>
+        <file>icons/es.webp</file>
+        <file>icons/Screenshot 2021-12-01 171245.png</file>
+    </qresource>
+</RCC>
